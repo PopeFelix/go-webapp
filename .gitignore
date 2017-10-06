@@ -16,3 +16,4 @@
 # Local ignore
 sketches/
 tmp/
+.*.sw*
